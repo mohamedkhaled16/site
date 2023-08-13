@@ -83,6 +83,10 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
@@ -101,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512832235676</updated>
       <workItem from="1512832237291" duration="5738000" />
-      <workItem from="1691961128234" duration="547000" />
+      <workItem from="1691961128234" duration="1071000" />
     </task>
     <servers />
   </component>
